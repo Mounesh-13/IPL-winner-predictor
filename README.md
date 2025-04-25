@@ -3,7 +3,7 @@ Live : web-production-b312.up.railway.app
 # Screenshots
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/50b58344-9f16-44a0-b4e3-a9bc023da57a" />
 
-<img width="290" alt="image" src="https://github.com/user-attachments/assets/6bdcf5c9-14fd-45ca-9e53-5e6901b21ff8" />
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/6bdcf5c9-14fd-45ca-9e53-5e6901b21ff8" />
 
 # IPL Winner Predictor (2020–2024)
 
